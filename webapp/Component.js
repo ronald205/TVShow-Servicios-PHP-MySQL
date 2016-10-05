@@ -19,7 +19,7 @@ sap.ui.define([
             this.setModel(oTVShowsModel);
 
             //console.log(oTVShowsModel);
-
+            // Comentario
             // set i18n model on view
             var i18nModel = new ResourceModel({
                 bundleName: "sap.ui.FirstUI5.wt.i18n.i18n"
