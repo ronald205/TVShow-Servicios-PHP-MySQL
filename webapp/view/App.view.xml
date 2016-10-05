@@ -1,0 +1,21 @@
+<mvc:View
+	controllerName="sap.ui.FirstUI5.wt.controller.App"
+	xmlns:l="sap.ui.layout"
+	xmlns:mvc="sap.ui.core.mvc"
+	xmlns="sap.m"
+	displayBlock="true">
+	
+	<!-- 
+	   <App>
+    	<pages>
+    		<Page title="{i18n>homePageTitle}">
+        		<content>
+        			<mvc:XMLView viewName="sap.ui.FirstUI5.wt.view.ShowsList"/>
+            	</content>
+         	</Page>
+      	</pages>
+   	</App>		-->		
+
+   	<App class="myFirstUI5WT" id="app"/>
+
+</mvc:View>

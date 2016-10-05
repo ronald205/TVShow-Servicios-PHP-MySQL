@@ -1,0 +1,110 @@
+[
+  {
+    "_id": "57e137fcf274abcf1c000001",
+    "title": "LOST",
+    "year": 2004,
+    "country": "USA",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA3NzMyMzU1MV5BMl5BanBnXkFtZTcwNjc1ODUwMg@@._V1_.jpg",
+    "seasons": 6,
+    "genre": "Sci-Fi",
+    "summary": "The survivors of a plane crash are forced to live with each other on a remote island, a dangerous new world that poses unique threats of its own.",
+    "__v": 0,
+    "cast": []
+  },
+  {
+    "_id": "57e13845f274abcf1c000002",
+    "title": "Breaking Bad",
+    "year": 2007,
+    "country": "USA",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ0ODYzODc0OV5BMl5BanBnXkFtZTgwMDk3OTcyMDE@._V1_SY1000_CR0,0,678,1000_AL_.jpg",
+    "seasons": 5,
+    "genre": "Thriller",
+    "summary": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's future.",
+    "__v": 0,
+    "cast": []
+  },
+  {
+    "_id": "57e138dff274abcf1c000003",
+    "title": "House of Cards",
+    "year": 2013,
+    "country": "USA",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjM3ODMyMjc3MV5BMl5BanBnXkFtZTgwNDgzNDc5NzE@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+    "seasons": 5,
+    "genre": "Drama",
+    "summary": "A Congressman works with his equally conniving wife to exact revenge on the people who betrayed him.",
+    "__v": 0,
+    "cast": []
+  },
+  {
+    "_id": "57e1526a72d65c8428000001",
+    "title": "Game of Thrones",
+    "year": 2011,
+    "country": "USA",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjM5OTQ1MTY5Nl5BMl5BanBnXkFtZTgwMjM3NzMxODE@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+    "seasons": 8,
+    "genre": "Thriller",
+    "summary": "While a civil war brews between several noble families in Westeros, the children of the former rulers of the land attempt to rise up to power. Meanwhile a forgotten race, bent on destruction, plans to return after thousands of years in the North.",
+    "__v": 0,
+    "cast": []
+  },
+  {
+    "_id": "57e15ab472d65c8428000003",
+    "title": "Prison Break",
+    "year": 2005,
+    "country": "USA",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg3NTkwNzAxOF5BMl5BanBnXkFtZTcwMjM1NjI5MQ@@._V1_.jpg",
+    "seasons": 4,
+    "genre": "Drama",
+    "summary": "Due to a political conspiracy, an innocent man is sent to death row and his only hope is his brother, who makes it his mission to deliberately get himself sent to the same prison in order to break the both of them out, from the inside out.",
+    "__v": 0,
+    "cast": []
+  },
+  {
+    "_id": "57e9880e3d1fd8a11e000002",
+    "title": "Elementary",
+    "year": 2012,
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTMyNDcxNjg2Nl5BMl5BanBnXkFtZTgwODM4NDQwMDI@._V1_SY1000_CR0,0,666,1000_AL_.jpg",
+    "seasons": 5,
+    "genre": "Thriller",
+    "summary": "A modern take on the cases of Sherlock Holmes, with the detective now living in New York City.",
+    "__v": 0,
+    "country": "USA",
+    "cast": []
+  },
+  {
+    "_id": "57ea886ae16d5b6a0e000001",
+    "title": "The Big Bang Theory ",
+    "year": 2008,
+    "country": "USA",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUyNDMxNjQyN15BMl5BanBnXkFtZTgwNzA4NDQwMDI@._V1_SY1000_CR0,0,666,1000_AL_.jpg",
+    "seasons": 10,
+    "genre": "Comedy",
+    "summary": "A woman who moves into an apartment across the hall from two brilliant but socially awkward physicists shows them how little they know about life outside of the laboratory.",
+    "__v": 1,
+    "cast": []
+  },
+  {
+    "_id": "57ea8bc6e16d5b6a0e000002",
+    "title": "Friends",
+    "year": 1994,
+    "country": "USA",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg4NzEyNzQ5OF5BMl5BanBnXkFtZTYwNTY3NDg4._V1._CR24,0,293,443_.jpg",
+    "seasons": 10,
+    "genre": "Comedy",
+    "summary": "Follows the personal and professional lives of six 20 to 30-something yrs old friends living in Manhattan.",
+    "__v": 0,
+    "cast": []
+  },
+  {
+    "_id": "57ea8c4de16d5b6a0e000003",
+    "title": "Seinfield",
+    "year": 1989,
+    "country": "USA",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2MDYyNDYyNl5BMl5BanBnXkFtZTgwNDQ4OTkwMDE@._V1._CR11,1,316,470_.jpg",
+    "seasons": 9,
+    "genre": "Comedy",
+    "summary": "The continuing misadventures of neurotic New York stand-up comedian Jerry Seinfeld and his equally neurotic New York friends.",
+    "__v": 23,
+    "cast": []
+  }
+]

@@ -1,0 +1,86 @@
+{
+  "_version": "1.1.0",
+  "sap.app": {
+	"_version": "1.1.0",
+	"id": "sap.ui.FirstUI5.wt",
+	"type": "application",
+	"i18n": "i18n/i18n.properties",
+	"title": "{{appTitle}}",
+	"description": "{{appDescription}}",
+	"applicationVersion": {
+	  "version": "1.0.0"
+	}
+  },
+  "sap.ui": {
+	"_version": "1.1.0",
+	"technology": "UI5",
+	"deviceTypes": {
+	  "desktop": true,
+	  "tablet": true,
+	  "phone": true
+	},
+	"supportedThemes": [
+	  "sap_bluecrystal"
+	]
+  },
+  "sap.ui5": {
+	"_version": "1.1.0",
+	"rootView": "sap.ui.FirstUI5.wt.view.App",
+	"dependencies": {
+	  "minUI5Version": "1.30",
+	  "libs": {
+		"sap.m": {}
+	  }
+	},
+	"models": {
+	  "i18n": {
+		"type": "sap.ui.model.resource.ResourceModel",
+		"settings": {
+		  "bundleName": "sap.ui.FirstUI5.wt.i18n.i18n"
+		}
+	  },
+	"TVShow": {
+    	"type": "sap.ui.model.json.JSONModel",
+    	"uri": "models/tvshow.json"
+   	}
+	},
+	"routing": {
+	  "config": {
+		"routerClass": "sap.m.routing.Router",
+		"viewType": "XML",
+		"viewPath": "sap.ui.FirstUI5.wt.view",
+		"controlId": "app",
+		"controlAggregation": "pages"
+	  },
+	  "routes": [
+		{
+		  "pattern": "",
+		  "name": "overview",
+		  "target": "overview"
+		},
+		{
+		  "pattern": "detail/{id}",
+		  "name": "detail",
+		  "target": "detail"
+		},
+		{
+			"pattern":"new",
+			"name" : "new",
+			"target" : "new"
+		}
+	  ],
+	  "targets": {
+		"overview": {
+		  "viewName": "Overview"
+		},
+		"detail": {
+		  "viewName": "Detail"
+		},
+		"new":{
+			"viewName": "New"
+		}
+	  }
+	}
+
+  }
+}
